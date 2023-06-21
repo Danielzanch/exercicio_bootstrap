@@ -1,0 +1,22 @@
+.container {
+    margin-top: 20px;
+}
+
+.col-3 {
+    background-color: aquamarine;
+}
+
+.col-3 h3 {
+    text-align: center;
+}
+
+.col {
+    background-color: rgb(131, 161, 241);
+    margin-left: 20px;
+}
+
+.col-3 h3,
+.col h2,
+.col button {
+    margin: 10px;
+}
